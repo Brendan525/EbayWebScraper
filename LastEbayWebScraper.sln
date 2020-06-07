@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastEbayWebScraper", "LastEbayWebScraper\LastEbayWebScraper.csproj", "{3AFCA029-C1AD-4D05-A843-0B17AE0C3044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AFCA029-C1AD-4D05-A843-0B17AE0C3044}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3AFCA029-C1AD-4D05-A843-0B17AE0C3044}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3AFCA029-C1AD-4D05-A843-0B17AE0C3044}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3AFCA029-C1AD-4D05-A843-0B17AE0C3044}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

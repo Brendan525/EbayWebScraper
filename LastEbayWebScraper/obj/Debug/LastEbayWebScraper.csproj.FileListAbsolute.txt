@@ -1,0 +1,11 @@
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/bin/Debug/LastEbayWebScraper.exe.config
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/bin/Debug/LastEbayWebScraper.exe
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/bin/Debug/LastEbayWebScraper.pdb
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/bin/Debug/HtmlAgilityPack.dll
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/bin/Debug/HtmlAgilityPack.pdb
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/bin/Debug/HtmlAgilityPack.xml
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/obj/Debug/LastEbayWebScraper.exe.config
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/obj/Debug/LastEbayWebScraper.csproj.CoreCompileInputs.cache
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/obj/Debug/LastEbayWebScraper.csproj.CopyComplete
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/obj/Debug/LastEbayWebScraper.exe
+/Users/Brendan/Desktop/C#Projects/LastEbayWebScraper/LastEbayWebScraper/obj/Debug/LastEbayWebScraper.pdb

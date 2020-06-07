@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3AFCA029-C1AD-4D05-A843-0B17AE0C3044}|Default">
+  <MonoDevelop.Ide.ItemProperties.LastEbayWebScraper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LastEbayWebScraper/Program.cs">
+    <Files>
+      <File FileName="LastEbayWebScraper/Program.cs" Line="17" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LastEbayWebScraper" expanded="True">
+            <Node name="LastEbayWebScraper" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
